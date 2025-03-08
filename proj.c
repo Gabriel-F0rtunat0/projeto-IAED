@@ -29,7 +29,7 @@ typedef struct {
 
 typedef struct {
     char user[MAX_USER_NAME];
-    Vaccine vacina;
+    Vaccine vaccine;
     Expiration aplicationDate;
 } Inoculation;
 
