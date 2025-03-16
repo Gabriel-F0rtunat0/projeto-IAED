@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "data_structures.h": "c",
+        "ctype.h": "c",
+        "date_utils.h": "c",
+        "inoculation.h": "c"
+    }
+}
